@@ -60,3 +60,4 @@ web/sites/*/services*.yml
 /web/sites/*/private
 
 /web/modules/contrib
+/web/themes/contrib
