@@ -61,3 +61,6 @@ web/sites/*/services*.yml
 
 /web/modules/contrib
 /web/themes/contrib
+
+
+.DS_Store
